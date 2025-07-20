@@ -1,1 +1,4 @@
-{ "pair": "Returns-Footfall", "correlation": 0.12 }
+{
+  "pair": "Rückgaben-Kundenfrequenz",
+  "correlation": 0.12
+}
